@@ -1,0 +1,52 @@
+[
+    {
+        "id": 414532,
+        "firstname": "Marylinda",
+        "lastname": "Bevir",
+        "desc": "Chief Executive Office",
+        "status": "Active",
+	"deadline": "23-12-23",
+	"phone": "123-456-7890",
+	"email": "marylinda.belvir@talane.com"
+    },
+    {
+        "id": 631452,
+        "firstname": "Perry",
+        "lastname": "Jeanin",
+        "desc": "Product Engineer",
+  	"status": "Active",
+	"deadline": "23-12-23",
+        "phone": "904-326-4732",
+        "email": "perry.jeanin@talane.com"
+    },
+    {
+        "id": 802323,
+        "firstname": "Skipton",
+        "lastname": "Duignan",
+        "desc": "Community Outreach Specialist",
+        "status": "Active",
+	"deadline": "23-12-23",
+        "phone": "520-476-3641",
+        "email": "skiptonduignan@browseblab.com"
+    },
+    {
+        "id": 192544,
+        "firstname": "Corrianne",
+        "lastname": "Croyden",
+        "desc": "Quality Control Specialist",
+        "status": "Active",
+	"deadline": "23-12-23",
+        "phone": "601-359-8126",
+        "email": "ccroyden@yakijo.com"
+    },
+    {
+        "id": 611645,
+        "firstname": "Waldon",
+        "lastname": "Schaben",
+        "desc": "CFO",
+        "status": "Active",
+	"deadline": "23-12-23",
+        "phone": "915-120-4368",
+        "email": "waldenschaben@gigashots.net"
+    }
+]
